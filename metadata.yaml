@@ -1,0 +1,26 @@
+_repo: The-Most-Horrible-Story_65727
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jakes, John
+    aliases:
+    - Jakes, John William
+    - Jakes, John W.
+    - Scotland, Jay
+    birthdate: 1932
+    gutenberg_agent_id: '50438'
+    url: http://www.gutenberg.org/2009/agents/50438
+    wikipedia: https://en.wikipedia.org/wiki/John_Jakes
+description: ''
+gutenberg_issued: '2021-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Most Horrible Story
+url: http://www.gutenberg.org/ebooks/65727
