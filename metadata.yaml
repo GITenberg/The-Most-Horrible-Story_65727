@@ -1,5 +1,8 @@
 _repo: The-Most-Horrible-Story_65727
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65727-h/images/cover.jpg
 creator:
   author:
     agent_name: Jakes, John
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50438
     wikipedia: https://en.wikipedia.org/wiki/John_Jakes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65727#The-Most-Horrible-Story
 gutenberg_issued: '2021-06-29'
 gutenberg_type: Text
 identifiers:
